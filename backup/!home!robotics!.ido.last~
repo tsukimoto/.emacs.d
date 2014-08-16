@@ -1,0 +1,30 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/robotics/" . "sgtf/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ 
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/robotics/" (21487 42257) ".xsession-errors" ".local/" "atomTest/" ".fontconfig/" "../" "Pictures/" ".emacs_old2" "Downloads/" ".emacs~" ".gem/" ".gnome2/" ".pki/" ".emacs-places" "Music/" ".recentf" ".emacs_old" ".goutputstream-CO6IKX" ".pulse-cookie" "workspace/" "Desktop/" ".gnome2_private/" ".anthy/" ".vboxclient-clipboard.pid" ".dbus/" "Videos/" "Documents/" ".ssh/" ".thumbnails/" ".atom/" ".bash_logout" "examples.desktop" ".mozilla/" ".config/" ".vim/" ".bash_history" ".swt/" ".vboxclient-draganddrop.pid" ".mission-control/" "Templates/" "gitTest/" "bootstraptest/" ".ido.last" ".pulse/" ".cache/" ".eclipse/" ".vimrc" ".vboxclient-display.pid" ".bashrc" ".gconf/" "sgtf/" ".sqlite_history" ".xsession-errors.old" ".recentf~" ".gtk-bookmarks" "Public/" ".viminfo" ".rbenv/" ".gvfs/" ".dmrc" "railsTest/" ".goutputstream-0T7JKX" "tmp/" "./" ".ICEauthority" ".emacs.d/" ".profile" ".mozc/" ".vboxclient-seamless.pid" ".Xauthority")
+
+ ("/home/robotics/bootstraptest/" (21487 36471) "../" "bootstrap/" "README.md" ".git/" "./")
+
+ ("/home/robotics/sgtf/" (21483 50403) "app/" "../" "vendor/" "Gemfile.lock" "Gemfile" "bin/" "public/" "README.md" "lib/" ".git/" "log/" "Gemfile~" "db/" "README.rdoc" "Rakefile" "config.ru" ".gitignore" "tmp/" "config/" "./" "test/")
+
+ ("/home/robotics/bootstraptest/bootstrap/" (21487 36719) "../" "sample.css" "js/" "fonts/" "index.html" "css/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
